@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
 
-- 🔭 I’m currently working on [First Project](google.pl)
+- 🔭 I’m currently working on [python_learning](https://github.com/pawelczubak/python_learning)
 
 - 📍 I’m based in **Poznań**
 
